@@ -1,0 +1,4 @@
+variables: es una forma de guardar el valor de algo para usarlo en otro momento. Existen tres palabras claves para crear una variable en JS; var, let y const.
+Strings: son un tipo de datos que sirven como bloques de texto. Se definen entre comillas. Osea que cualquier texto entre comillas se define como bloques de cadena o strings.
+Argumentos: son parte de las funciones en JS. Son palabras que se componen dentro de parentesis, para darle mayor valor a la funcion. Return: 
+Declaraciones if: 
